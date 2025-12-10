@@ -1,0 +1,33 @@
+Mail:
+  id: 33
+  dump: !!binary BE1haWwDaWQAdmFsAGhvc3RfaWQACAoI
+User:
+  id: 35
+  dump: !!binary BFVzZXIBaWQACA==
+SiteAdmin:
+  id: 42
+  dump: !!binary CVNpdGVBZG1pbgNpZAB1c2VyX2lkAHN0YXRlAAgIAw==
+UserName:
+  id: 37
+  dump: !!binary CFVzZXJOYW1lAmlkAG5hbWVfaWQACAg=
+UserPassword:
+  id: 38
+  dump: !!binary DFVzZXJQYXNzd29yZARpZAB2AGhhc2gAc2FsdAAIAgsL
+SiteHost:
+  id: 41
+  dump: !!binary CFNpdGVIb3N0A2lkAGhvc3RfaWQAc3RhdGUACAgD
+UserMailPrimary:
+  id: 39
+  dump: !!binary D1VzZXJNYWlsUHJpbWFyeQNpZAB1c2VyX2lkAG1haWxfaWQACAgI
+Host:
+  id: 40
+  dump: !!binary BEhvc3QCaWQAdmFsAAgK
+SiteOwner:
+  id: 43
+  dump: !!binary CVNpdGVPd25lcgJpZAB1c2VyX2lkAAgI
+UserMail:
+  id: 36
+  dump: !!binary CFVzZXJNYWlsBGlkAHVzZXJfaWQAbWFpbF9pZABzdGF0ZQAICAgD
+Name:
+  id: 34
+  dump: !!binary BE5hbWUCaWQAdmFsAAgK
